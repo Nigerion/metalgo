@@ -21,3 +21,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 * components: it contains all the components of the pages
 * page:it contains pages
 * services:it contains a story patch slice with an entriesSlice layer
+
+## It was done
+* Two pages have been created: registration and profile.
+*The shapes are made with a react-hook-form hook.
+* The old and layer is made using Redux
