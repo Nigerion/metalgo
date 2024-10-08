@@ -18,6 +18,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 ## Structure
-components: it contains all the components of the pages
-page:it contains pages
-services:it contains a story patch slice with an entriesSlice layer
+* components: it contains all the components of the pages
+* page:it contains pages
+* services:it contains a story patch slice with an entriesSlice layer
