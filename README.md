@@ -24,5 +24,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## It was done
 * Two pages have been created: registration and profile.
-*The shapes are made with a react-hook-form hook.
+* The shapes are made with a react-hook-form hook.
 * The old and layer is made using Redux
